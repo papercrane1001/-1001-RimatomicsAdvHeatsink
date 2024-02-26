@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[1001]Rimatomics Pocket Cooling
+	<name>[1001]Rimatomics Pocket Cooling</name>
 	<author>papercrane1001</author>
 	<packageId>papercrane1001.AdvCooling</packageId>
 	<supportedVersions>
@@ -17,4 +17,5 @@
 	GitHub at: TBD
 	
 	Version 1.0.0
+	</description>
 </ModMetaData>
