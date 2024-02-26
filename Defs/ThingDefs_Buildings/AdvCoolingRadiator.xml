@@ -28,12 +28,12 @@
     <blockLight>true</blockLight>
     <holdsRoof>true</holdsRoof>
     <statBases>
-      <MaxHitPoints>250</MaxHitPoints>
-      <WorkToBuild>8000</WorkToBuild>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>12000</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
     <pathCost>250</pathCost>
-    <size>(3,3)</size>
+    <size>(2,2)</size>
     <costList>
       <Steel>600</Steel>
       <ComponentIndustrial>15</ComponentIndustrial>
@@ -67,6 +67,7 @@
     </comps>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <placeWorkers>
+	  <li>PlaceWorker_Heater</li>
       <li>Rimatomics.PlaceWorker_ResearchStage</li>
     </placeWorkers>
     <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
