@@ -9,7 +9,7 @@
 	<modDependencies>
 	    <li>
 		<packageId>dubwise.rimatomics</packageId>
-		<displayName>Dubs Rimatomics</packageId>
+		<displayName>Dubs Rimatomics</displayName>
 		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1127530465</steamWorkshopUrl>
 		</li>
 	</modDependencies>

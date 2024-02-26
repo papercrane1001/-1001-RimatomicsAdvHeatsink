@@ -68,7 +68,6 @@
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <placeWorkers>
 	  <li>PlaceWorker_Heater</li>
-      <li>Rimatomics.PlaceWorker_ResearchStage</li>
     </placeWorkers>
     <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
     <building>
