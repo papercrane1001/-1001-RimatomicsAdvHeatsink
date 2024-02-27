@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<ThingDef ParentName="BuildingBase"  Class="AdvHeatsink.AdvCoolingSystem">
+	<ThingDef ParentName="BasedPower"  Class="Rimatomics.RimatomicsThingDef">
     <defName>AdvCoolingRadiator</defName>
     <label>Advanced Radiator</label>
 	  <CoolingCapacityWatts>500000</CoolingCapacityWatts>
     <description>advanced pocket dimension air cooler for ongoing nuclear reactors when space is even more limited.\n500kW cooling capacity\nConsumes advanced components</description>
-    <thingClass>Rimatomics.Radiator</thingClass>
+    <thingClass>AdvHeatsink.AdvCoolingSystem</thingClass>
     <graphicData>
       <texPath>Rimatomics/Things/RimatomicsBuildings/nukeRadiator</texPath>
       <graphicClass>Graphic_Single</graphicClass>

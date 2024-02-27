@@ -33,3 +33,9 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RimatomicsAdvH
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RimatomicsAdvHeatsink\1.4\Source\AdvHeatsink\AdvHeatsink\obj\Debug\AdvHeatsink.pdb
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RimatomicsAdvHeatsink\1.4\Assemblies\AdvHeatsink.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RimatomicsAdvHeatsink\1.4\Assemblies\AdvHeatsink.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RimatomicsAdvHeatsink\1.4\Assemblies\AdvHeatsink.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RimatomicsAdvHeatsink\1.4\Assemblies\AdvHeatsink.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RimatomicsAdvHeatsink\1.4\Source\AdvHeatsink\AdvHeatsink\obj\Debug\AdvHeatsink.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RimatomicsAdvHeatsink\1.4\Source\AdvHeatsink\AdvHeatsink\obj\Debug\AdvHeatsink.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RimatomicsAdvHeatsink\1.4\Source\AdvHeatsink\AdvHeatsink\obj\Debug\AdvHeatsink.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RimatomicsAdvHeatsink\1.4\Source\AdvHeatsink\AdvHeatsink\obj\Debug\AdvHeatsink.pdb
