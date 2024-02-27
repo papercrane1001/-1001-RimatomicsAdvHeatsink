@@ -2,6 +2,6 @@
 <Configuration>
   <Excluded>
     <exclude>.git</exclude>
-    <exclude>Textures</exclude>
+    <exclude>1.4\Source</exclude>
   </Excluded>
 </Configuration>
