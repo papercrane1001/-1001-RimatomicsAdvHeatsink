@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<ThingDef ParentName="BasedPower"  Class="Rimatomics.RimatomicsThingDef">
+	<ThingDef ParentName="BuildingBase"  Class="AdvHeatsink.AdvCoolingSystem">
     <defName>AdvCoolingRadiator</defName>
     <label>Advanced Radiator</label>
 	  <CoolingCapacityWatts>500000</CoolingCapacityWatts>
@@ -49,7 +49,7 @@
       </li>
       <li Class="CompProperties_Flickable"/>
 	  <li Class="CompProperties_Refuelable">
-		<fuelConsumptionRate>10.0</fuelConsumptionRate>
+		<fuelConsumptionRate>0.25</fuelConsumptionRate>
 		<fuelCapacity>25</fuelCapacity>
 		<fuelFilter>
 			<thingDefs>
