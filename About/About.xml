@@ -5,6 +5,7 @@
 	<packageId>papercrane1001.AdvCooling</packageId>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
 	<modDependencies>
@@ -25,8 +26,8 @@
 	I use the MIT license: https://opensource.org/licenses/MIT
 	which mostly says that if you use my code, please give me credit.  
 	
-	GitHub at: TBD
+	GitHub at: https://github.com/papercrane1001/-1001-RimatomicsAdvHeatsink
 	
-	Version 1.0.1
+	Version 1.1.0
 	</description>
 </ModMetaData>

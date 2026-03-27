@@ -10,7 +10,7 @@
       <texPath>Rimatomics/Things/RimatomicsBuildings/nukeRadiator</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <shaderType>CutoutComplex</shaderType>
-      <drawSize>(3,3)</drawSize>
+      <drawSize>(4,4)</drawSize>
       <shadowData>
         <volume>(0.9, 0.9, 0.9)</volume>
         <offset>(0,0,0)</offset>
@@ -33,7 +33,7 @@
       <Flammability>1.0</Flammability>
     </statBases>
     <pathCost>250</pathCost>
-    <size>(2,2)</size>
+    <size>(3,3)</size>
     <costList>
       <Steel>600</Steel>
       <ComponentIndustrial>15</ComponentIndustrial>
@@ -66,9 +66,6 @@
       <li Class="Rimatomics.CompProperties_Upgradable"/>
     </comps>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-    <placeWorkers>
-	  <li>PlaceWorker_Heater</li>
-    </placeWorkers>
     <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
     <building>
       <canPlaceOverWall>true</canPlaceOverWall>
