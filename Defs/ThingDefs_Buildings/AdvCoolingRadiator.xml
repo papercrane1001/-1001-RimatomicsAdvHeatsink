@@ -4,7 +4,7 @@
     <defName>AdvCoolingRadiator</defName>
     <label>Advanced Radiator</label>
 	  <CoolingCapacityWatts>500000</CoolingCapacityWatts>
-    <description>advanced pocket dimension air cooler for ongoing nuclear reactors when space is even more limited.\n500kW cooling capacity\nConsumes advanced components</description>
+    <description>An advanced pocket dimension air cooler for ongoing nuclear reactors when space is even more limited.\n500kW cooling capacity\nConsumes advanced components\nMay violate closed system thermodynamics</description>
     <thingClass>AdvHeatsink.AdvCoolingSystem</thingClass>
     <graphicData>
       <texPath>Rimatomics/Things/RimatomicsBuildings/nukeRadiator</texPath>
