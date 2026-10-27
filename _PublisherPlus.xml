@@ -4,5 +4,7 @@
     <exclude>.git</exclude>
     <exclude>1.4\Source</exclude>
     <exclude>1.6\Source</exclude>
+    <exclude>1.7\Source</exclude>
+    <exclude>Reference</exclude>
   </Excluded>
 </Configuration>
